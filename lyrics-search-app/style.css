@@ -1,0 +1,19 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  background-color: #fff;
+  font-family: Arial, Arial, Helvetica, sans-serif;
+}
+
+button{
+  cursor: pointer;
+}
+
+button:active{
+  outline: none;
+  transform: scale(.95);
+}
